@@ -1,0 +1,452 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+/*! normalize.css v3.0.0 | HTML5 Display Definitions | MIT License | git.io/normalize */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+  display: block;
+}
+
+audio,
+canvas,
+progress,
+video {
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+[hidden],
+template {
+  display: none;
+}
+
+/*! normalize.css v3.0.0 | Base | MIT License | git.io/normalize */
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+/*! normalize.css v3.0.0 | Links | MIT License | git.io/normalize */
+a {
+  background: transparent;
+}
+
+a:active,
+a:hover {
+  outline: 0;
+}
+
+/*! normalize.css v3.0.0 | Typography | MIT License | git.io/normalize */
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+b,
+strong {
+  font-weight: bold;
+}
+
+dfn {
+  font-style: italic;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+small {
+  font-size: 80%;
+}
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+/*! normalize.css v3.0.0 | Embedded Content | MIT License | git.io/normalize */
+img {
+  border: 0;
+}
+
+svg:not(:root) {
+  overflow: hidden;
+}
+
+/*! normalize.css v3.0.0 | Figures | MIT License | git.io/normalize */
+figure {
+  margin: 1em 40px;
+}
+
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+pre {
+  overflow: auto;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+/*! normalize.css v3.0.0 | Forms | MIT License | git.io/normalize */
+button,
+input,
+optgroup,
+select,
+textarea {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+button {
+  overflow: visible;
+}
+
+button,
+select {
+  text-transform: none;
+}
+
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+
+button[disabled],
+html input[disabled] {
+  cursor: default;
+}
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+input {
+  line-height: normal;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+
+legend {
+  border: 0;
+  padding: 0;
+}
+
+textarea {
+  overflow: auto;
+}
+
+optgroup {
+  font-weight: bold;
+}
+
+/*! normalize.css v3.0.0 | Tables | MIT License | git.io/normalize */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td,
+th {
+  padding: 0;
+}
+
+* {
+  position: relative;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+#main {
+  padding: 0 1em;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.recipe-header {
+  overflow: hidden;
+  *zoom: 1;
+  margin-top: 2em;
+}
+
+@media screen and (min-width: 768px) {
+  .recipe-image {
+    max-width: 50%;
+    float: left;
+    margin-right: 2em;
+  }
+}
+
+.interative-icons {
+  overflow: hidden;
+  *zoom: 1;
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  border-bottom: 1px solid;
+  padding: 0 0 1.5em 0;
+}
+.interative-icons li {
+  display: inline-block;
+  margin-right: 1em;
+  max-height: 3em;
+}
+.interative-icons li:last-child {
+  margin-right: 0;
+}
+.interative-icons li i {
+  font-size: 3em;
+}
+@media screen and (min-width: 1050px) {
+  .interative-icons li i {
+    margin-right: .2em;
+  }
+}
+.interative-icons li span {
+  display: none;
+  transform: translateY(-50%);
+}
+@media screen and (min-width: 1050px) {
+  .interative-icons li span {
+    display: inline-block;
+  }
+}
+.interative-icons:last-of-type {
+  display: none;
+}
+@media screen and (min-width: 768px) {
+  .interative-icons {
+    padding: 1.5em 0;
+    border-top: 1px solid;
+  }
+  .interative-icons:first-of-type {
+    display: none;
+  }
+  .interative-icons:last-of-type {
+    display: block;
+  }
+}
+
+.recipe-body {
+  overflow: hidden;
+  *zoom: 1;
+}
+@media screen and (min-width: 1050px) {
+  .recipe-body .info-container {
+    width: 50%;
+    float: left;
+  }
+  .recipe-body .info-container:nth-child(even) {
+    padding-left: 2em;
+  }
+}
+
+#sitehead {
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  margin-left: -66px;
+  z-index: 2;
+}
+
+.site-nav {
+  background: #000;
+  padding: .5em 0 0 0;
+}
+.site-nav .nav-toggle {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+.site-nav label {
+  color: #fff;
+  font-size: 2em;
+  margin: 0 0 0 .5em;
+}
+.site-nav label:hover {
+  cursor: pointer;
+}
+.site-nav label.secondary-nav {
+  font-size: 1em;
+}
+.site-nav .nav-toggle ~ ul {
+  animation-timing-function: ease-in-out;
+  -webkit-animation-timing-function: ease-in-out;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  -webkit-transition-property: max-height;
+  -moz-transition-property: max-height;
+  -o-transition-property: max-height;
+  -ms-transition-property: max-height;
+  transition-property: max-height;
+  max-height: 0px;
+  overflow: hidden;
+}
+.site-nav .nav-toggle:checked ~ ul {
+  max-height: 1000px;
+}
+.site-nav .nav-toggle ~ label {
+  float: right;
+}
+.site-nav .nav-toggle ~ label .fa-caret-square-o-up {
+  display: none;
+}
+.site-nav .nav-toggle ~ label .fa-caret-square-o-up:before {
+  content: '';
+}
+.site-nav .nav-toggle:checked ~ label .fa-caret-square-o-down {
+  display: none;
+}
+.site-nav .nav-toggle:checked ~ label .fa-caret-square-o-down:before {
+  content: '';
+}
+.site-nav .nav-toggle:checked ~ label .fa-caret-square-o-up {
+  display: inline-block;
+}
+.site-nav .nav-toggle:checked ~ label .fa-caret-square-o-up:before {
+  content: "\f151";
+}
+.site-nav > ul > li:first-child {
+  padding-top: 2em;
+}
+.site-nav .toplevel {
+  background-color: #333;
+}
+.site-nav .toplevel > li {
+  font-size: 1.5em;
+  padding: 0 1em;
+  margin-bottom: .5em;
+  border-bottom: 1px solid #444;
+}
+.site-nav .toplevel > li:last-child {
+  border-bottom: 0 none;
+}
+.site-nav .secondlevel label {
+  margin-right: .5em;
+}
+.site-nav .secondlevel > li {
+  font-size: .75em;
+  margin-bottom: .5em;
+  padding: .5em 0 .5em 1em;
+  border-bottom: 1px solid #444;
+}
+.site-nav .secondlevel > li:first-child {
+  padding-top: 1em;
+}
+.site-nav .secondlevel > li:last-child {
+  border-bottom: 0 none;
+}
+.site-nav .thirdlevel > li {
+  margin-bottom: .5em;
+  padding: .5em 0 .5em 1em;
+  border-bottom: 1px solid #444;
+}
+.site-nav .thirdlevel > li:first-child {
+  padding-top: 1em;
+}
+.site-nav .thirdlevel > li:last-child {
+  border-bottom: 0 none;
+}
+.site-nav ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.site-nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=screen.css.map */

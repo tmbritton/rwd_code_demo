@@ -1,0 +1,252 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2025" measuredH="1221" mockupW="1984" mockupH="1200">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="41" y="21" w="1280" h="1024" measuredW="450" measuredH="400" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Code%20Demo%0Ahttp%3A//whatever.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="68" y="115" w="-1" h="-1" measuredW="364" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Banana%20Nice%20Cream</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="68" y="173" w="611" h="417" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="14" controlTypeID="__group__" x="717" y="275" w="1133" h="213" measuredW="1133" measuredH="213" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="0" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Serves%202</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="36" w="564" h="88" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="14">
+          <controlProperties>
+            <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="0" y="124" w="564" h="89" measuredW="564" measuredH="89" zOrder="2" locked="false" isInGroup="14">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="0" w="564" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="2"/>
+            <control controlID="1" controlTypeID="__group__" x="80" y="25" w="404" h="48" measuredW="404" measuredH="48" zOrder="1" locked="false" isInGroup="2">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="-1" h="-1" measuredW="79" measuredH="48" zOrder="0" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <icon>PrintIcon%7Clarge</icon>
+                    <labelPosition>right</labelPosition>
+                    <text>%5BPrint%5D</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="94" y="0" w="-1" h="-1" measuredW="83" measuredH="48" zOrder="1" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <icon>EmailIcon%7Clarge</icon>
+                    <labelPosition>right</labelPosition>
+                    <text>Email</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="188" y="0" w="-1" h="-1" measuredW="108" measuredH="48" zOrder="2" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <icon>FacebookIcon%7Clarge</icon>
+                    <labelPosition>right</labelPosition>
+                    <text>Facebook</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="311" y="0" w="-1" h="-1" measuredW="93" measuredH="48" zOrder="3" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <icon>TwitterIcon%7Clarge</icon>
+                    <labelPosition>right</labelPosition>
+                    <text>Twitter</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="79" w="564" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="2"/>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7" controlTypeID="__group__" x="699" y="134" w="434" h="79" measuredW="434" measuredH="79" zOrder="3" locked="false" isInGroup="14">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="0" w="434" h="-1" measuredW="100" measuredH="10" zOrder="0" locked="false" isInGroup="7"/>
+            <control controlID="1" controlTypeID="__group__" x="15" y="15" w="404" h="48" measuredW="404" measuredH="48" zOrder="1" locked="false" isInGroup="7">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::IconLabel" x="0" y="0" w="-1" h="-1" measuredW="79" measuredH="48" zOrder="0" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <icon>PrintIcon%7Clarge</icon>
+                    <labelPosition>right</labelPosition>
+                    <text>%5BPrint%5D</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::IconLabel" x="94" y="0" w="-1" h="-1" measuredW="83" measuredH="48" zOrder="1" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <icon>EmailIcon%7Clarge</icon>
+                    <labelPosition>right</labelPosition>
+                    <text>Email</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="188" y="0" w="-1" h="-1" measuredW="108" measuredH="48" zOrder="2" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <icon>FacebookIcon%7Clarge</icon>
+                    <labelPosition>right</labelPosition>
+                    <text>Facebook</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::IconLabel" x="311" y="0" w="-1" h="-1" measuredW="93" measuredH="48" zOrder="3" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <icon>TwitterIcon%7Clarge</icon>
+                    <labelPosition>right</labelPosition>
+                    <text>Twitter</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="69" w="434" h="-1" measuredW="100" measuredH="10" zOrder="2" locked="false" isInGroup="7"/>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="68" y="620" w="610" h="122" measuredW="610" measuredH="122" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="275" h="-1" measuredW="124" measuredH="27" zOrder="0" locked="false" isInGroup="17">
+          <controlProperties>
+            <text>Ingredients</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="42" w="610" h="80" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="17">
+          <controlProperties>
+            <text>*%202%20large%20bananas%2C%20sliced%20and%20frozen%0A*%201%20cup%20unsweetened%20soymilk%0A*%202%20tablespoons%20smooth%20almond%20butter%20or%20peanut%20butter</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="717" y="620" w="579" h="122" measuredW="579" measuredH="122" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="261" h="-1" measuredW="80" measuredH="27" zOrder="0" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Method</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="42" w="579" h="80" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>1.%20Put%20bananas%2C%20soymilk%20and%20almond%20butter%20into%20a%20blender.%0A2.%20Pur%E9e%2C%20turning%20off%20the%20motor%20and%20stirring%20the%20mixture%20two%20or%20three%20times%2C%20until%20smooth%20and%20creamy.%0A3.%20Pour%20into%20two%20bowls%20and%20serve.</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="19" controlTypeID="__group__" x="68" y="746" w="611" h="122" measuredW="611" measuredH="122" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="196" h="-1" measuredW="159" measuredH="27" zOrder="0" locked="false" isInGroup="19">
+          <controlProperties>
+            <text>Nutritional%20Info</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="42" w="611" h="80" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="19">
+          <controlProperties>
+            <text>Per%20Serving%3A%20280%20calories%20%28120%20from%20fat%29%2C%2013g%20total%20fat%2C%201.5g%20saturated%20fat%2C%200mg%20cholesterol%2C%2075mg%20sodium%2C%2038g%20carbohydrate%20%284g%20dietary%20fiber%2C%2022g%20sugar%29%2C%209g%20protein</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="20" controlTypeID="__group__" x="717" y="746" w="610" h="122" measuredW="610" measuredH="122" zOrder="8" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="275" h="-1" measuredW="145" measuredH="27" zOrder="0" locked="false" isInGroup="20">
+          <controlProperties>
+            <text>Special%20Diets</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="42" w="610" h="80" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="20">
+          <controlProperties>
+            <text>*%20Dairy%20Free%0A*%20Gluten%20Free%0A*%20Low%20Sodium%0A*%20Vegan%0A*%20Vegetarian</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Paragraph" x="68" y="909" w="1223" h="80" measuredW="275" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22302.9189453125%2C900%2C339.40869140625%2C910%22%20href%3D%22http%3A//support.balsamiq.com/customer/portal/articles/110121%23basicformatting%22%20alt%3D%22web%20link%22%20id%3D%2221%22%20target%3D%22_blank%22/%3E</map>
+        <size>10</size>
+        <text>Note%3A%20We%27ve%20provided%20special%20diet%20and%20nutritional%20information%20for%20educational%20purposes.%20But%20remember%20%u2014%20we%27re%20cooks%2C%20not%20doctors%21%20You%20should%20follow%20the%20advice%20of%20your%20health-care%20provider.%20And%20since%20product%20formulations%20change%2C%20check%20product%20labels%20for%20the%20most%20recent%20ingredient%20information.%20See%20our%20Terms%20of%20Service.ext%7E%20with%20a%20%5Bweb%20link%5D%28http%3A//support.balsamiq.com/customer/portal/articles/110121%23basicformatting%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::FieldSet" x="1392" y="21" w="480" h="1200" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mobile%20Device</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Title" x="1415" y="49" w="-1" h="-1" measuredW="364" measuredH="43" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Banana%20Nice%20Cream</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Image" x="1415" y="100" w="431" h="294" measuredW="77" measuredH="79" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Label" x="1415" y="494" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Serves%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Paragraph" x="1415" y="525" w="435" h="80" measuredW="275" measuredH="80" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Lorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="__group__" x="1415" y="618" w="610" h="122" measuredW="610" measuredH="122" zOrder="14" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="275" h="-1" measuredW="124" measuredH="27" zOrder="0" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>Ingredients</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="42" w="610" h="80" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="28">
+          <controlProperties>
+            <text>*%202%20large%20bananas%2C%20sliced%20and%20frozen%0A*%201%20cup%20unsweetened%20soymilk%0A*%202%20tablespoons%20smooth%20almond%20butter%20or%20peanut%20butter</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="29" controlTypeID="__group__" x="1415" y="723" w="435" h="122" measuredW="435" measuredH="122" zOrder="15" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="196" h="-1" measuredW="80" measuredH="27" zOrder="0" locked="false" isInGroup="29">
+          <controlProperties>
+            <text>Method</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="42" w="435" h="80" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="29">
+          <controlProperties>
+            <text>1.%20Put%20bananas%2C%20soymilk%20and%20almond%20butter%20into%20a%20blender.%0A2.%20Pur%E9e%2C%20turning%20off%20the%20motor%20and%20stirring%20the%20mixture%20two%20or%20three%20times%2C%20until%20smooth%20and%20creamy.%0A3.%20Pour%20into%20two%20bowls%20and%20serve.</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="30" controlTypeID="__group__" x="1415" y="845" w="434" h="122" measuredW="434" measuredH="122" zOrder="16" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="171" h="-1" measuredW="159" measuredH="27" zOrder="0" locked="false" isInGroup="30">
+          <controlProperties>
+            <text>Nutritional%20Info</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="42" w="434" h="80" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="30">
+          <controlProperties>
+            <text>Per%20Serving%3A%20280%20calories%20%28120%20from%20fat%29%2C%2013g%20total%20fat%2C%201.5g%20saturated%20fat%2C%200mg%20cholesterol%2C%2075mg%20sodium%2C%2038g%20carbohydrate%20%284g%20dietary%20fiber%2C%2022g%20sugar%29%2C%209g%20protein</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="31" controlTypeID="__group__" x="1415" y="949" w="610" h="122" measuredW="610" measuredH="122" zOrder="17" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::SubTitle" x="0" y="0" w="275" h="-1" measuredW="145" measuredH="27" zOrder="0" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>Special%20Diets</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="42" w="610" h="80" measuredW="275" measuredH="80" zOrder="1" locked="false" isInGroup="31">
+          <controlProperties>
+            <text>*%20Dairy%20Free%0A*%20Gluten%20Free%0A*%20Low%20Sodium%0A*%20Vegan%0A*%20Vegetarian</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Paragraph" x="1415" y="1089" w="435" h="80" measuredW="275" measuredH="80" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221601.97900390625%2C1104%2C1638.46875%2C1114%22%20href%3D%22http%3A//support.balsamiq.com/customer/portal/articles/110121%23basicformatting%22%20alt%3D%22web%20link%22%20id%3D%2232%22%20target%3D%22_blank%22/%3E</map>
+        <size>10</size>
+        <text>Note%3A%20We%27ve%20provided%20special%20diet%20and%20nutritional%20information%20for%20educational%20purposes.%20But%20remember%20%u2014%20we%27re%20cooks%2C%20not%20doctors%21%20You%20should%20follow%20the%20advice%20of%20your%20health-care%20provider.%20And%20since%20product%20formulations%20change%2C%20check%20product%20labels%20for%20the%20most%20recent%20ingredient%20information.%20See%20our%20Terms%20of%20Service.ext%7E%20with%20a%20%5Bweb%20link%5D%28http%3A//support.balsamiq.com/customer/portal/articles/110121%23basicformatting%29</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,28 @@
+@mixin vertical-center {
+  position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+@mixin visuallyhidden {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px; width: 1px;
+  margin: -1px; padding: 0; border: 0;
+}
+
+@mixin animate($time, $properties) {
+  animation-timing-function:ease-in-out;
+  -webkit-animation-timing-function:ease-in-out;
+  -moz-transition: $time;
+  -ms-transition: $time;
+  -o-transition: $time;
+  -webkit-transition: $time;
+  transition: $time;
+  -webkit-transition-property: $properties;
+  -moz-transition-property: $properties;
+  -o-transition-property: $properties;
+  -ms-transition-property: $properties;
+  transition-property: $properties;
+}
